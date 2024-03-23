@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **All website development project**
 
-- 💬 Ask me about **Html,Css,Javascript,Bootstrap,TailwindCss & Django**
+- 💬 Ask me about **Css,TailwindCss, Bootstrap, Javascript, ReactJs, NodeJS, ExpressJS, MongoDB, & Django**
 
 - 📫 How to reach me **otagadaisaac@gmail.com**
 
