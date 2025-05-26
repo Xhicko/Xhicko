@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **All website development project**
 
-- 💬 Ask me about **Css, ReactJs, NodeJS,NextJS, ExpressJS, MongoDB SupaBase, and SQL**
+- 💬 Ask me about **Css, ReactJs, NodeJS,NextJS, ExpressJS, MongoDB, SupaBase, and SQL**
 
 - 📫 How to reach me **otagadaisaac@gmail.com**
 
