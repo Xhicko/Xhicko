@@ -62,19 +62,6 @@ I'm a passionate Full-Stack Engineer with 3.5+ years of experience building scal
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xhicko&show_icons=true&theme=onedark&count_private=true" alt="xhicko's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhicko&theme=onedark" alt="xhicko's streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhicko&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
