@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Otagada</h1>
 <h3 align="center">Full-Stack Engineer | Production-Ready Web Solutions | React/Next.js Specialist</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhicko&theme=onedark&column=7" alt="xhicko" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/devs_xhicko" target="blank"><img src="https://img.shields.io/twitter/follow/devs_xhicko?logo=twitter&style=for-the-badge" alt="devs_xhicko" /></a> </p>
-
 ---
 
 ## 👨‍💻 About Me
