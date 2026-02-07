@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Otagada</h1>
 <h3 align="center">Full-Stack Engineer | Production-Ready Web Solutions | React/Next.js Specialist</h3>
----
 
 ## 👨‍💻 About Me
 
